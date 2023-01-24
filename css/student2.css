@@ -1,0 +1,38 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    display: inline-block;
+    background-color: lightblue;
+    border-style: dashed;
+    border-radius: 25px;
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    padding: 5px;
+ }
+ img{
+    width: 24%;
+    height: auto;
+    padding: 10px;
+    border: 3px dotted green;
+    /* border-style: dashed;
+    border-color: green; */
+ }
+ p{
+    color: navy;
+    background-color: lightblue;
+    text-shadow: 2px 2px white;
+    font: Arial;
+ }
+
+ 
